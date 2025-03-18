@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Pendi (aka Venziuno)
 
 ## 🚀 About Me
-I am a **Fullstack Developer** with a passion for building scalable and efficient web applications. I specialize in both **frontend** and **backend** development, combining modern design with robust backend solutions. With a strong focus on **Next.js**, **React**, **Laravel**, **Node.js**, and **Odoo**, I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+I am a **Fullstack Developer** with a passion for building scalable and efficient web applications. I specialize in both **frontend** and **backend** development, combining modern design with robust backend solutions. With a strong focus on **Next.js**, **React**, **Laravel**, and **Odoo**, I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 In the online world, I'm known as **Venziuno** — a tech enthusiast who loves to automate workflows and create seamless digital experiences.
-Currently, I am working on integrating **Odoo 17** with various marketplaces like **Tokopedia** and **Shopee**, streamlining operations and automating business processes.
+Currently, I am working on integrating **Odoo 17** with various marketplaces like **Tokopedia**, **Tiktok**, **Lazada**, **Shopee** and **etc**, streamlining operations and automating business processes.
 
 ## 🛠 Tech Stack
 - **Frontend**: Next.js, React, Tailwind CSS  
@@ -22,12 +22,11 @@ Currently, I am working on integrating **Odoo 17** with various marketplaces lik
 - Designing intuitive interfaces using **Figma** and **Tailwind CSS**
 - Experimenting with **3D assets** in **Blender** for UI/UX enhancements
 
-
 ## 🌱 I’m currently learning
 - Advanced **DevOps** tools and practices: Docker, Kubernetes, GitHub Actions  
-- **Microservices architecture** for scalable applications  
-- **Cloud deployments** with **DigitalOcean** and **AWS**  
-- 3D modeling and animation fundamentals in **Blender** for creative projects
+- Creating **3D assets** and **animations** using Blender
+- Exploring **Microservices** architecture for large-scale apps
+- Interactive **3D web experiences** using **Three.js**
 
 ## 👯 I’m looking to collaborate on
 - Open-source projects in **Web Development**, **API Integrations**, or **Automation Tools**  
@@ -38,13 +37,12 @@ Currently, I am working on integrating **Odoo 17** with various marketplaces lik
 ## 🤔 I’m looking for help with
 - Best practices in **System Design** and **Microservices**  
 - Improving **application performance** and **database optimization**  
-- Scaling applications to handle **high traffic**
 
 ## 💬 Ask me about
-- Fullstack development with **React**, **Next.js**, **Laravel**, and **Node.js**  
+- Fullstack development with **React**, **Next.js**, and **Laravel**
 - **Odoo 17** customization and integrations  
-- **Tokopedia** and **Shopee API** integrations  
-- **Tailwind CSS** and **Figma** for modern UI design  
+- **Tokopedia**, **Tiktok**, **Lazada**, **Shopee** and **etc**, integrations  
+- **Tailwind CSS**, **Boostrap** and **Figma** for modern UI design  
 - **Docker** and **CI/CD** automation
 
 ## 📫 How to reach me
@@ -52,10 +50,8 @@ Currently, I am working on integrating **Odoo 17** with various marketplaces lik
 - 🌐 Website: _coming soon_  
 - 💼 LinkedIn: [linkedin.com/in/pendi-venziuno](https://www.linkedin.com/in/pendi-venziuno/)
 
-
 ## 😄 Pronouns
 He/Him
-
 
 ## ⚡ Fun fact
 I automate repetitive tasks not because I have to, but because I *love* making life easier with code.  
