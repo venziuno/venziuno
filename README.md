@@ -10,8 +10,7 @@ Currently, I am working on integrating **Odoo** with various marketplaces like *
 - **Backend**: Node.js (Express), Laravel (PHP), Odoo (Python)  
 - **UI/UX Design**: Figma, Blender  
 - **DevOps**: Docker, CI/CD Pipelines, GitHub Actions  
-- **Databases**: MySQL, PostgreSQL, MongoDB  
-- **Cloud & Deployment**: DigitalOcean, AWS
+- **Databases**: MySQL, PostgreSQL
 
 ## 🔭 I’m currently working on
 - Developing and maintaining **Next.js** applications with **TypeScript** and **JavaScript**
