@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a **Fullstack Developer** with a passion for building scalable and efficient web applications. I specialize in both **frontend** and **backend** development, combining modern design with robust backend solutions. With a strong focus on **Next.js**, **React**, **Laravel**, and **Odoo**, I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 In the online world, I'm known as **Venziuno** — a tech enthusiast who loves to automate workflows and create seamless digital experiences.
-Currently, I am working on integrating **Odoo 17** with various marketplaces like **Tokopedia**, **Tiktok**, **Lazada**, **Shopee** and **etc**, streamlining operations and automating business processes.
+Currently, I am working on integrating **Odoo** with various marketplaces like **Tokopedia**, **Tiktok**, **Lazada**, **Shopee** and **etc**, streamlining operations and automating business processes.
 
 ## 🛠 Tech Stack
 - **Frontend**: Next.js, React, Tailwind CSS  
@@ -40,13 +40,13 @@ Currently, I am working on integrating **Odoo 17** with various marketplaces lik
 
 ## 💬 Ask me about
 - Fullstack development with **React**, **Next.js**, and **Laravel**
-- **Odoo 17** customization and integrations  
+- **Odoo** customization and integrations  
 - **Tokopedia**, **Tiktok**, **Lazada**, **Shopee** and **etc**, integrations  
 - **Tailwind CSS**, **Boostrap** and **Figma** for modern UI design  
 - **Docker** and **CI/CD** automation
 
 ## 📫 How to reach me
-- 📧 Email: [pendi@antpen.my.id](mailto:pendi@antpen.my.id)  
+- 📧 Email: [venziuno@gmail.com](mailto:venziuno@gmail.com)  
 - 🌐 Website: _coming soon_  
 - 💼 LinkedIn: [linkedin.com/in/pendi-venziuno](https://www.linkedin.com/in/pendi-venziuno/)
 
