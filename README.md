@@ -17,7 +17,7 @@ Currently, I am working on integrating **Odoo 17** with various marketplaces lik
 - Developing and maintaining **Next.js** applications with **TypeScript** and **JavaScript**
 - Developing and maintaining **Laravel** applications with **PHP**
 - Building and optimizing **RESTful APIs** with **Node.js** and **Express.js**
-- Customizing and integrating **Odoo 17** with external systems for seamless business workflows
+- Customizing and integrating **Odoo** with external systems for seamless business workflows
 - Setting up **Dockerized** environments and exploring **CI/CD pipelines**
 - Designing intuitive interfaces using **Figma** and **Tailwind CSS**
 - Experimenting with **3D assets** in **Blender** for UI/UX enhancements
