@@ -46,7 +46,7 @@ Currently, I am working on integrating **Odoo** with various marketplaces like *
 
 ## 📫 How to reach me
 - 📧 Email: [venziuno@gmail.com](mailto:venziuno@gmail.com)  
-- 🌐 Website: _coming soon_  
+- 🌐 Website: [venziuno.com](https://www.venziuno.com/)
 - 💼 LinkedIn: [linkedin.com/in/pendi-venziuno](https://www.linkedin.com/in/pendi-venziuno/)
 
 ## 😄 Pronouns
