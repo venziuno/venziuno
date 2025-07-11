@@ -1,4 +1,9 @@
 # Hi there 👋 I'm Pendi (aka Venziuno)
+## Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonilim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/venziuno)
+
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonilim&layout=compact&langs_count=7&theme=dracula)](https://github.com/venziuno)
 
 ## 🚀 About Me
 I am a **Fullstack Developer** with a passion for building scalable and efficient web applications. I specialize in both **frontend** and **backend** development, combining modern design with robust backend solutions. With a strong focus on **Next.js**, **React**, **Laravel**, and **Odoo**, I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
